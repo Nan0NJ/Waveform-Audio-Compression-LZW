@@ -1,0 +1,9 @@
+All information is added on GitHub:
+https://github.com/Nan0NJ/Waveform-Audio-Compression-LZW
+
+The Sample WAV and MP3 files are provided in folder samples.
+
+Before running the code make sure to correct the path:
+Path samplesDir = Paths.get("C:\\Your\\path\\to\\Waveform-Audio-Compression-LZW\\samples");
+
+Run the code, to test on any other audio if needed, and feel free to analyze the results.
