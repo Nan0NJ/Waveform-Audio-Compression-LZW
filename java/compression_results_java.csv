@@ -1,0 +1,5 @@
+WAV_File,WAV_Size,Compressed_Size,MP3_Size,Entropy,Compression_Ratio
+C:\Users\devne\Documents\lebissol\Waveform-Audio-Compression-LZW\samples\WAV_SINEWAVE.wav,5300302,6142172,722997,1.0000,0.8629
+C:\Users\devne\Documents\lebissol\Waveform-Audio-Compression-LZW\samples\WAV_CRICKETSOUND.wav,1769550,1545636,242135,0.9957,1.1449
+C:\Users\devne\Documents\lebissol\Waveform-Audio-Compression-LZW\samples\WAV_REPEATINGWORD.wav,5299466,4938666,481626,0.9993,1.0731
+C:\Users\devne\Documents\lebissol\Waveform-Audio-Compression-LZW\samples\WAV_AREA.wav,40665166,51194742,5534125,1.0000,0.7943
